@@ -1,0 +1,16 @@
+Assets/Prefabs
+Build/
+Library/
+BuildAndroid/
+Packages/
+Logs/
+ProjectSettings/
+*.meta
+obj/
+.vs/
+test.dat
+Assets.rar
+zakaz1.sln
+Temp/UnityLockfile
+Assets/Scenes
+.vscode/settings.json
